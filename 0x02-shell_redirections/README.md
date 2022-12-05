@@ -4,3 +4,4 @@
 3-twofiles-this prints "twofiles"
 4-lastlines this prints "lastlines"
 5-firstlines- this prints "firstlines"
+6-third_line - this prints "third_line
