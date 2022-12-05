@@ -3,3 +3,4 @@
 2-hellofile- this prints "passwd
 3-twofiles-this prints "twofiles"
 4-lastlines this prints "lastlines"
+5-firstlines- this prints "firstlines"
