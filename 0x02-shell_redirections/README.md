@@ -2,3 +2,4 @@
 1-confused_smiley- this prints a "smiley
 2-hellofile- this prints "passwd
 3-twofiles-this prints "twofiles"
+4-lastlines this prints "lastlines"
