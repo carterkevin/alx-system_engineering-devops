@@ -6,3 +6,4 @@
 5-local_variables- thi lists all local variables & functions
 6-create_local_variable- this creates a new local variable
 7-create_global_variable- this creates a new global variable
+8-true_knowledge - this print the additional 128 & with environmental variables
