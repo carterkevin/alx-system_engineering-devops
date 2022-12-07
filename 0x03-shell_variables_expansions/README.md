@@ -12,3 +12,4 @@
 11-binary_to_decimal - converts
 12-combinations -this prints all possible combination of letters
 13-print_float - this prints a number with 2 dicimal places
+100-decimal_to_hexadecimal- converts base
